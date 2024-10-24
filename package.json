@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.4",
+    "caniuse-lite": "^1.0.30001669",
     "chalk": "^4.0.0",
     "cheerio": "^0.22.0",
     "del": "^6.0.0",
